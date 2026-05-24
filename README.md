@@ -44,3 +44,5 @@
 20. [Linux=>Valley](Writeups/TryHackMe/valley.md)
 
 21. [Linux=>U.A. High School](Writeups/TryHackMe/U.A.HighSchool.md)
+
+22. [Linux=>U.A. High School](Writeups/TryHackMe/road.md)
