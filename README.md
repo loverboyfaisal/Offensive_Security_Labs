@@ -45,4 +45,4 @@
 
 21. [Linux=>U.A. High School](Writeups/TryHackMe/U.A.HighSchool.md)
 
-22. [Linux=>U.A. High School](Writeups/TryHackMe/road.md)
+22. [Linux=>Road](Writeups/TryHackMe/road.md)
