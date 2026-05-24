@@ -50,3 +50,5 @@
 23. [Linux=>Empline](Writeups/TryHackMe/empline.md)
 
 24. [Linux=>RootMe](Writeups/TryHackMe/rootme.md)
+
+24. [Linux=>chill Hack](Writeups/TryHackMe/chillhack.md)
