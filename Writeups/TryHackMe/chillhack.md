@@ -174,4 +174,4 @@ our user is in Docker group, Using [GTFObins](https://gtfobins.org/)docker paylo
 
 ## Root flag
 
-![[chi-24.png]]
+![image](../../images/chi-24_clean.png)
