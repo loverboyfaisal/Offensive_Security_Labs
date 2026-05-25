@@ -2,7 +2,7 @@
 
 ## Enumeration
 
-Start with simple Nmap scan to discover open ports 
+Establish port scan with Nmap to discover open ports.
 
 ```bash
 sudo nmap -T4 -Pn 10.113.136.159
@@ -10,7 +10,7 @@ sudo nmap -T4 -Pn 10.113.136.159
 
 ![image](../../images/chi-1_clean.png)
 
-using nmap simple script on discovered ports 
+using nmap script on discovered ports 
 
 ```bash
 sudo nmap -p21,22,80 -sC -sV -Pn 10.113.136.159
@@ -18,7 +18,7 @@ sudo nmap -p21,22,80 -sC -sV -Pn 10.113.136.159
 
 ![image](../../images/chi-2_clean.png)
 
-I found this directory on FTP server. Connecting to FTP with default credentials.
+I found this directory on FTP server, connecting to FTP with default credentials.
 
 ```bash
 ftp 10.113.136.159
