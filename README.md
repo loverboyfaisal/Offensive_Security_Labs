@@ -52,3 +52,6 @@
 24. [Linux=>RootMe](Writeups/TryHackMe/rootme.md)
 
 24. [Linux=>chill Hack](Writeups/TryHackMe/chillhack.md)
+
+25. [Linux=>0day](Writeups/TryHackMe/0day.md)
+
