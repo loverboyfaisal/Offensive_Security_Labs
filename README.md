@@ -57,3 +57,4 @@
 
 26. [Linux=>Olympus](Writeups/TryHackMe/olympus.md)
 
+26. [Linux=>boiler](Writeups/TryHackMe/boiler.md)
