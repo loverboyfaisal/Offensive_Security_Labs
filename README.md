@@ -55,3 +55,5 @@
 
 25. [Linux=>0day](Writeups/TryHackMe/0day.md)
 
+26. [Linux=>Olympus](Writeups/TryHackMe/olympus.md)
+
